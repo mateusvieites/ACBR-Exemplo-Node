@@ -8,10 +8,10 @@ Por favor siga o que está escrito aqui:
 Manual de respostas da DLL: https://acbr.sourceforge.io/ACBrLib/ConfiguracoesdaBiblioteca16.html
 
 ## Como utilizar a DEMO
-Coloque a DLL que você deseja e coloque na pasta ACBR
-Coloque seu certificado PFX na pasta certificados
-Coloque sua notafiscal na pasta notafiscal
-Modifique as variáveis dentro para terem o mesmo nomes dos arquivos que você utilizou
+Coloque a DLL que você deseja e coloque na pasta ACBR  
+Coloque seu certificado PFX na pasta certificados  
+Coloque sua notafiscal na pasta notafiscal  
+Modifique as variáveis dentro para terem o mesmo nomes dos arquivos que você utilizou  
 Veja se funciona
 
 Caso funcione as respostas devem retornar 0
