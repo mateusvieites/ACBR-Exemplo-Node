@@ -3,7 +3,6 @@
 Data: 06/05/2024
 
 Esse projeto não tem intuíto de ser atualizado regularmente, mas caso achar algum erro / melhoria por favor gere uma issue e irei analisar e aceitar
-Isso é apenas um exemplo de como deve ser feito para homologar o ACBR
 
 Por favor siga o que está escrito aqui:
 Manual de respostas da DLL: https://acbr.sourceforge.io/ACBrLib/ConfiguracoesdaBiblioteca16.html
